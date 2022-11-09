@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    margin-left: 10px;
+
+}
+
+body {
+background-color: bisque;
+}
+
+.flex-container {
+    justify-items: center;
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    margin-left: 250px;
+}
+
+
+img {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 2px dashed black;
+}
