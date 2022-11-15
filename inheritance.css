@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    padding: 5%;
+    
+}
+
+#div1 {
+    background-color: blueviolet;
+    width: 40%;
+    padding: 3%;
+    margin: 3%;
+    border: 5px;
+    border-style: dotted;
+}
+
+#div2 {
+    background-color: darkgreen;
+    width: 40%;
+    padding: 3%;
+    margin: 3%;
+    border: 5px;
+    border-style: dashed;
+    border-color: darkkhaki;
+}
+
+.H1 {
+    color: bisque;
+}
+
+.H2 {
+    color: darkkhaki;
+}
+
+ol {
+    color: white;
+}
+
+ul {
+    color: white;
+}
